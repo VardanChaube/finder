@@ -4,10 +4,6 @@
 
 ## Installation
 
-#### Cloning the repository:
-
-- Clone the repository using `git clone https://github.com/akshatarun/Grid-Pathfinding-Visualizer.git`.
-
 #### Installing dependencies:
 
 - Run `npm install`
@@ -51,12 +47,4 @@ _Greedy Best First Search_
 
 ## After visualization
 
-- _After visualization you can reposition start and end node as you want and add and delete walls as you wish and visualize using any algorithm again without reloading the webpage_
-
-- _We moved the start node out of that square and removed one of the walls_
-  <img src="./pictures/p6.png" width="800">
-
-_This Project was built by_
-
-- [Akshat Arun](https://github.com/akshatarun)
-- [Mesharya M Choudhary](https://github.com/mesharyachoudhary)
+- _After visualization you can reposition start and end node as you want and add and delete walls as you wish and visualize u
